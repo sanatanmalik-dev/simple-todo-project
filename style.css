@@ -1,15 +1,15 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: #1687a3;
 }
 
 .todo-container {
   width: 300px;
   margin: 100px auto;
-  background: rgba(119, 6, 100);
+  background: white;
   padding: 20px;
   text-align: center;
-  border-radius: 2px rgba(201, 7, 110);
+  border-radius: 8px;
 }
 
 input {
@@ -29,4 +29,8 @@ li {
   background: #eee;
   padding: 5px;
   border-radius: 4px;
+}
+
+h2 {
+  color: rgb(100, 169, 215);
 }
